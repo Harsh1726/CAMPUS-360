@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:title="Student's Section">
+
+            <menu>
+
+                <item
+                    android:id="@+id/navigation_collegeofficialworks"
+                    android:icon="@drawable/college"
+                    android:title="College Academics"/>
+
+
+            </menu>
+
+        </item>
+    </group>
+
+
+    <item
+        android:title="Personal">
+
+        <menu>
+
+            <item
+                android:id="@+id/navigation_changepassword"
+                android:icon="@drawable/password"
+                android:title="Change Password"/>
+
+            <item
+                android:id="@+id/navigation_updateemail"
+                android:icon="@drawable/email"
+                android:title="Update Email"/>
+
+
+
+            <item
+                android:id="@+id/navigation_ebook"
+                android:icon="@drawable/notes"
+                android:title="Notes"/>
+        </menu>
+
+    </item>
+
+
+
+
+    <item android:title="Support">
+
+        <menu>
+
+            <item
+                android:id="@+id/navigation_feedback"
+                android:title="Send Feedback"
+                android:icon="@drawable/feedback"/>
+
+            <item
+                android:id="@+id/navigation_telegramchannel"
+                android:title="Join Telegram Channel"
+                android:icon="@drawable/telegramicon"/>
+
+
+        </menu>
+
+    </item>
+
+
+    <item android:title="Other">
+
+
+        <menu>
+            <item
+                android:id="@+id/navigation_shareapp"
+                android:title="Share App"
+                android:icon="@drawable/share144icon"/>
+
+            <item
+                android:id="@+id/navigation_upcomingfeatures"
+                android:title="Upcoming Features"
+                android:icon="@drawable/upcomingfeature"/>
+
+            <item
+                android:id="@+id/navigation_logout"
+                android:title="Log Out"
+                android:icon="@drawable/logoutimage"/>
+
+
+        </menu>
+
+    </item>
+
+</menu>

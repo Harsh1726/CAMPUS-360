@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">MIT UJJAIN OFFICIAL</string>
+
+    //Headings
+    <string name="heading_one">Easy Access To Notes</string>
+    <string name="heading_two">Connect With Faculties</string>
+    <string name="heading_three">Instant Notifications</string>
+    <string name="heading_fourth">Enjoy Events</string>
+
+    //Description
+    <string name="desc_one">Get all the subject notes on a single platform.</string>
+    <string name="desc_two">Interact with the faculties.</string>
+    <string name="desc_three">Stay updated with regular updates &amp; official informations.</string>
+    <string name="desc_fourth">See what\'s happening in college events</string>
+
+    <!-- OTP module -->
+    <string name="otp_verification">OTP Verification</string>
+    <string name="we_will_send_you_a_one_time_password_on_this_mobile_number">We will send you a One Time Password on this mobile number</string>
+    <string name="enter_mobile_number">enter mobile number</string>
+    <string name="Enter_mobile_number" />
+    <string name="Enter_Mobile_Number">Enter Mobile Number</string>
+    <string name="_91">+91-</string>
+    <string name="_1234567890">1234567890</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="enter_the_otp_sent_to">Enter the OTP sent to</string>
+    <string name="didn_t_receive_the_otp">Didn\'t receive the OTP?</string>
+    <string name="resend_otp">RESEND OTP</string>
+    <string name="verify">Verify</string>
+
+
+    <!-- Navigation Drawer -->
+
+    <string name="OpenDrawer">Open navigation drawer</string>
+    <string name="CloseDrawer">Close navigation drawer</string>
+    <string name="forgot_password"><u>Forgot Password ?</u></string>
+    <string name="about_n_mit_group_of_institutes_ujjain"><u>MIT Group of Institutes, Ujjain</u></string>
+
+
+    <string name="about_college">Mahakal Institute of Technology (commonly known as MIT, Ujjain) is an institution of the Mahakal Group of Institutes near the village of Karchha, Behind Air Strip, Datana about 20 km from Ujjain, Madhya Pradesh India. It was founded in 2001 and offers courses in a variety of engineering disciplines, including Civil Engineering, Electrical Engineering, Electronic Engineering, Mechanical Engineering, Computer Engineering and Diploma in Accounting. Engineering degrees are affiliated with Rajiv Gandhi Proudyogiki Vishwavidyalaya in Bhopal. Commerce and Accounting courses are online courses and college of commerce is considered as private college.</string>
+    <string name="contact_details"><u>Contact Details</u></string>
+    <string name="mit_group_of_institutes">MIT Group of Institutes</string>
+    <string name="address_behind_air_strip_dewas_road_ujjain_m_p_456664_india_phone_0734_405_0680"><b>Address:</b> Behind Air Strip, Dewas Road, Ujjain(M.P.), 456664, INDIA</string>
+    <string name="phone_0734_4050680_0734_4050900"><b>Phone</b> : 0734-4050680 , 0734-4050900</string>
+    <string name="email_mahakalgroupujjain_gmail_com_info_mitujjain_com"><b>Email</b> : mahakalgroupujjain@gmail.com, info@MITUjjain.com</string>
+    <string name="departments"><u>Departments</u></string>
+    <string name="about"><u>About</u></string>
+    <string name="add_notice">Add Notice</string>
+
+
+    <string name="mytelegram">\@Harshalprachand11</string>
+
+
+    <!-- developer section -->
+    <string name="intro">Hey! I’m Class Representative of \'CS - 1\' and an undergraduate student of MIT UJJAIN (2020-24).</string>
+    <string name="skills">I am eager to apply my skills and knowledge to create innovative and user-friendly mobile applications. With a solid foundation in programming and a passion for technology, I am confident in my ability to create high-quality apps that meet the needs of users.</string>
+    <string name="queries">For any queries, contact me through the following links :</string>
+    <string name="dev_name">Harshal Prachand</string>
+    <string name="gmaillink">mailto:prachandharshal@gmail.com</string>
+    <string name="linkedinlink">https://www.linkedin.com/in/harshal-p-860434253</string>
+    <string name="githublink">https://github.com/Harsh1726</string>
+
+    <string name="bund">Dhruv Namdev</string>
+
+
+    <string name="apphyperlink"><a href="https://drive.google.com/drive/folders/1pzWXjoLVZ8241rSpNFKDwJUvhoPn_TZH?usp=share_link">Go To Official APK</a></string>
+    <string name="userapphyperlink"><a href="https://drive.google.com/drive/folders/1R8MEimWj3ZaAMELrNNhrgeLSQGeHPlSW?usp=share_link">Get The Official APK</a></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="made_by_mit_cs_team">Made by <b>MIT (CSE)</b></string>
+
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+
+
+</resources>

@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "415441998005",
+    "firebase_url": "https://mit-ujjain-official-admin-default-rtdb.firebaseio.com",
+    "project_id": "mit-ujjain-official-admin",
+    "storage_bucket": "mit-ujjain-official-admin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415441998005:android:4e4d63cb9b46aca4326efc",
+        "android_client_info": {
+          "package_name": "com.example.mitujjainofficial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415441998005-9afpdv98a6qraf5ipa2ms7lbg1dnm190.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjMfum0UCipqT4WXwz8jQrWikETSQf37A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415441998005-9afpdv98a6qraf5ipa2ms7lbg1dnm190.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415441998005:android:15a331e651b842b4326efc",
+        "android_client_info": {
+          "package_name": "com.example.mitujjainofficialadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415441998005-9afpdv98a6qraf5ipa2ms7lbg1dnm190.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjMfum0UCipqT4WXwz8jQrWikETSQf37A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415441998005-9afpdv98a6qraf5ipa2ms7lbg1dnm190.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

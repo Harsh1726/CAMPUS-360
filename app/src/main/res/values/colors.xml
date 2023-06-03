@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- New colors added -->
+    <color name="lightskyblue">#87CEFA</color>
+    <color name="DodgerBlue">#005A9C</color>
+
+    //onboarding colors
+    <color name="background">#F0F4F3</color>
+    <color name="buttontext">#50C2C9</color>
+
+    //indicator color
+    <color name="inactive">#C4C4C4</color>
+    <color name="active">#50C2C9</color>
+
+    // otp verification colors
+    <color name="colorPrimary">#536DFE</color>
+    <color name="colorPrimaryDark">#536DFE</color>
+    <color name="colorAccent">#F44336</color>
+    <color name="colorTextPrimary">#212121</color>
+    <color name="colorTextSecondary">#757575</color>
+    <color name="colorDivider">#BDBDBD</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+
+    <!-- Dashboard screencolors -->
+    <color name="colorPrimary1">#2BCC6F</color>
+    <color name="colorPrimaryDark1">#2BCC6F</color>
+    <color name="colorAccent1">#333333</color>
+    <color name="colorPrimaryLight">#E9F8F1</color>
+    <color name="colorWhite1">#FFFFFF</color>
+    <color name="colorBackground">#EBEBEB</color>
+    <color name="colorTrendingStart">#00B09B</color>
+    <color name="colorTrendingEnd">#96C93D</color>
+    <color name="colorDivider1">#D6D6D6</color>
+
+    <color name="textColor">#3f3b3b</color>
+    <color name="titleColor">#1b272c</color>
+
+    <color name="grey">#808080</color>
+    <color name="red">#FF0000</color>
+    <color name="light_gray">#edf2f7</color>
+    <color name="darkColor">#313131</color>
+
+    <color name="appIconTint">#13497b</color>
+    <color name="primaryGrey">#404B55</color>
+
+    <color name="greydark">#5A5A5A</color>
+    <color name="gold">#ffbf00</color>
+    <color name="lightgrey">#D3D3D3</color>
+
+
+</resources>
